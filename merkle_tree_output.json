@@ -1,0 +1,10 @@
+{
+    "Top Hash": "074c39cba468d7874e57cf2a4e31035f0f277723",
+    "Hash Method": "sha1",
+    "Files": [
+        "file1.txt",
+        "file2.txt",
+        "file3.txt",
+        "file4.txt"
+    ]
+}
